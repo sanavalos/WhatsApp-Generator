@@ -111,12 +111,9 @@ body {
 
 .user-bar .videocam i{
  font-size: 32px;
- padding-right: 15px;
 }
 
-.user-bar .phone i{
- padding-right: 15px;
-}
+
 
 .user-bar .avatar {
  margin: 0 0 0 5px;
