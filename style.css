@@ -410,3 +410,10 @@ body {
 .conversation-compose .send .circle i {
  font-size: 30px;
 }
+
+@media only screen and (max-width: 1000px) {
+ .screen-container {
+  height: 100vh;
+  width: 100vw;
+ }
+}

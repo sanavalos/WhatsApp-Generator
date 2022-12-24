@@ -1,5 +1,5 @@
 const image = document.querySelector("img");
-image.src === "http://127.0.0.1:5500/index.html"
+image.getAttribute("src") === ""
   ? (image.src =
       "https://www.ole.com.ar/images/2022/12/13/lNjig2fRy_400x400__1.jpg")
   : (image.src = image.src);
