@@ -26,16 +26,11 @@ body {
  justify-content: center;
 }
 
-.marvel-device .screen {
- text-align: left;
-}
 
 .screen-container {
  height: 100vh;
- width: 100vw;
+ width: 35vw;
 }
-
-/* Status Bar */
 
 .status-bar {
  height: 25px;
@@ -112,8 +107,6 @@ body {
 .user-bar .videocam i{
  font-size: 32px;
 }
-
-
 
 .user-bar .avatar {
  margin: 0 0 0 5px;
